@@ -167,3 +167,7 @@ print(classification_report(y_true, session_features["svm_bot"]))
 
 print("\n--- HYBRID MODEL ---")
 print(classification_report(y_true, session_features["final_bot"]))
+print("\n=======================================================================\n")
+# Save results
+OUTPUT_PATH = "../processed/final_session_classification.csv"
+session_features.to_csv(OUTPUT_PATH, index=False)
