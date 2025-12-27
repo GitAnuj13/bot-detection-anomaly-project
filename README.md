@@ -1,4 +1,5 @@
 🛡️ Bot Detection & Anomaly Analysis for E-commerce Traffic
+
 📌 Project Overview
 
 Bots are increasingly capable of mimicking human behavior on websites, making simple rule-based detection unreliable over time.
@@ -79,6 +80,11 @@ Below are the final 4 EDA outputs used to guide modeling decisions.
 🔹 1. Requests per Second — Human vs Bot
 
 Shows clear separation in request velocity, with bots skewing higher.
+Image:
+
+
+Direct link:
+👉 https://github.com/GitAnuj13/bot-detection-anomaly-project/blob/main/outputs/plots/requests_per_sec_distribution.png
 
 🔹 2. Scroll Depth — Human vs Bot
 
