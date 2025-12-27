@@ -90,13 +90,31 @@ Direct link:
 
 Humans tend to scroll more naturally, while bots often show shallow or inconsistent scrolling.
 
+Image:
+
+
+Direct link:
+👉 https://github.com/GitAnuj13/bot-detection-anomaly-project/blob/main/outputs/plots/scroll_depth_distribution.png
+
 🔹 3. Mouse Movement — Human vs Bot
 
 Mouse activity is one of the strongest behavioral signals separating humans from bots.
 
+Image:
+
+
+Direct link:
+👉 https://github.com/GitAnuj13/bot-detection-anomaly-project/blob/main/outputs/plots/mouse_movement_distribution.png
+
 🔹 4. Feature Correlation Matrix
 
 Confirms low multicollinearity and validates feature independence for ML models.
+
+Image:
+
+
+Direct link:
+👉 https://github.com/GitAnuj13/bot-detection-anomaly-project/blob/main/outputs/plots/feature_correlation_matrix.png
 
 🧪 Model Evaluation Summary
 Model	Precision (Bot)	Recall (Bot)	Notes
